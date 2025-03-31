@@ -12,6 +12,9 @@ Adversarial examples exploit the sensitivity of deep networks to small perturbat
 
 *f(x') ≠ f(x)  and  ||x' - x|| is small*
 
+> *AdvGAN Structure*
+![AdvGAN](https://github.com/user-attachments/assets/5d3c33bb-14d6-42dd-ada9-aa485cd533d1)
+
 
 ---
 
